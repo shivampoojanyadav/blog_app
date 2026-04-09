@@ -28,7 +28,7 @@ I created this project while exploring backend development and understanding how
 
 ## 📂 Project Structure
 
-```bash id="g7clbp"
+
 env/                # Virtual environment
 blog/               # Main Django app
 templates/          # HTML templates
@@ -42,9 +42,9 @@ manage.py           # Django management script
 
 Follow these steps:
 
-```bash id="5jzq1k"
+
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/shivampoojanyadav/blog_app.git
 
 # Move into project directory
 cd blog-project
